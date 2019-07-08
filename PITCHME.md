@@ -2,9 +2,28 @@
 
 ---
 
-![](assets/img/Scotland_2019.jpg)
-
+![](assets/img/Scotland1.jpg)
 ---?color=linear-gradient(180deg, white 75%, black 25%)
+![](assets/img/Scotland2.jpg)
+---?color=linear-gradient(180deg, white 75%, black 25%)
+![](assets/img/Scotland3.jpg)
+---?color=linear-gradient(180deg, white 75%, black 25%)
+![](assets/img/Scotland4.jpg)
+---?color=linear-gradient(180deg, white 75%, black 25%)
+![](assets/img/Scotland5.jpg)
+---?color=linear-gradient(180deg, white 75%, black 25%)
+![](assets/img/Scotland6.jpg)
+---?color=linear-gradient(180deg, white 75%, black 25%)
+![](assets/img/Scotland7.jpg)
+---?color=linear-gradient(180deg, white 75%, black 25%)
+![](assets/img/Scotland8.jpg)
+---?color=linear-gradient(180deg, white 75%, black 25%)
+![](assets/img/Scotland9.jpg)
+---?color=linear-gradient(180deg, white 75%, black 25%)
+![](assets/img/Scotland10.jpg)
+---?color=linear-gradient(180deg, white 75%, black 25%)
+
+
 @title[Customize Slide Layout]
 
 @snap[west span-50]
