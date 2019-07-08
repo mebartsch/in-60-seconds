@@ -2,9 +2,7 @@
 
 ---
 
-## Add Some Slide Candy
-
-![](assets/img/presentation.png)
+![](assets/img/Scotland-2019.jpg)
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
