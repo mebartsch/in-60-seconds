@@ -2,7 +2,7 @@
 
 ---
 
-![](assets/img/Scotland 2019.jpg)
+![](assets/img/presentation.png)
 
 ---
 @title[Customize Slide Layout]
